@@ -25,7 +25,7 @@ and the low pass is LP(n). The input is X(n).<br>
 ✓ Apply this filter to the ECG1 and then ECG2 signal.<br>
 ✓ How to partially resolve the problems occurring at the start of the signal?<br>  
 
-
+<br>
 
 **2.2 The low-pass filter**<br>
 
