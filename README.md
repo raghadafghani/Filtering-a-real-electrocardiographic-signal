@@ -13,7 +13,9 @@ automatic processing possible?
 We will use two filters, the output of the high-pass filter is HP(n)
 and the low pass is LP(n). The input is X(n).
 2.1 The high-pass filter
-![image](https://github.com/user-attachments/assets/8739eb03-7ae3-40d4-becf-edc4bd5256e4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8739eb03-7ae3-40d4-becf-edc4bd5256e4" alt="Description of Image">
+</p>
 ✓ Calculate its transfer function.
 ✓ Find and plot the Frequency response.
 ✓ Which family does it belong to (FIR, IIR)?
