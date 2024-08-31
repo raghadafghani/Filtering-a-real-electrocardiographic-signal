@@ -23,10 +23,12 @@ and the low pass is LP(n). The input is X(n).<br>
 ✓ Find and plot the Frequency response.<br>
 ✓ Which family does it belong to (FIR, IIR)?<br>
 ✓ Apply this filter to the ECG1 and then ECG2 signal.<br>
-✓ How to partially resolve the problems occurring at the start of the signal?<br>
+✓ How to partially resolve the problems occurring at the start of the signal?<br>  
+
 
 
 **2.2 The low-pass filter**<br>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/87ecc914-36fb-492c-b520-df3d34857be6" alt="Description of Image">
 </p>
