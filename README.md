@@ -1,5 +1,5 @@
 # Filtering-a-real-electrocardiographic-signal
- giveN two files ECG1.xlsx and ECG2.xlsx which need to be low-pass and high-pass 
+ given two files ECG1.xlsx and ECG2.xlsx which need to be low-pass and high-pass 
 filtered for subsequent processing (peak detection and classification).
 # Part 1. Data Visualization 
 These data are recordings of actual cardiac electrical signals. They are sampled at 360 Hz.  
