@@ -22,7 +22,10 @@ and the low pass is LP(n). The input is X(n).
 ✓ Apply this filter to the ECG1 and then ECG2 signal.
 ✓ How to partially resolve the problems occurring at the start of the signal?
 2.2 The low-pass filter
-![image](https://github.com/user-attachments/assets/87ecc914-36fb-492c-b520-df3d34857be6)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/87ecc914-36fb-492c-b520-df3d34857be6" alt="Description of Image">
+</p>
+
 ✓ Calculate its transfer function.
 ✓ Find and plot the Frequency response.
 ✓ Which family does it belong to?
