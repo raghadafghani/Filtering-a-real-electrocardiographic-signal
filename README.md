@@ -4,11 +4,12 @@ filtered for subsequent processing (peak detection and classification).
 # Part 1. Data Visualization 
 These data are recordings of actual cardiac electrical signals. They are sampled at 360 
 Hz.
-1.1 Insert the real-time column for each signal.
-1.2 Display each of these signals (reduce the width of the display lines for better 
-readability).
-1.3 What filtering types are necessary to improve the readability of data and make 
-automatic processing possible?
+1.1 Insert the real-time column for each signal.  
+
+1.2 Display each of these signals (reduce the width of the display lines for better readability).  
+
+1.3 What filtering types are necessary to improve the readability of data and make automatic processing possible?  
+
 # Part 2. Filtering the ECG 
 We will use two filters, the output of the high-pass filter is HP(n)
 and the low pass is LP(n). The input is X(n).
